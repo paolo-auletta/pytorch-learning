@@ -77,7 +77,7 @@ pytorch-learning-journey/
 ## 📚 Learning Resources
 
 **Primary References:**
-- [MIT 6.S191: Introduction to Deep Learning](http://cs231n.github.io/) - MIT's deep learning course
+- [MIT 6.S191: Introduction to Deep Learning]([http://cs231n.github.io/](https://introtodeeplearning.com/)) - MIT's deep learning course
 - [PyTorch Course by Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A) - 24hours PyTorch course
 - [PyTorch Official Tutorials](https://pytorch.org/tutorials/) - Comprehensive framework guide
 
