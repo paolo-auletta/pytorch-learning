@@ -1,11 +1,9 @@
 # PyTorch Deep Learning Journey 🚀
 
-> **A comprehensive exploration of computer vision and deep learning fundamentals using PyTorch**
+> **A comprehensive exploration of computer vision using PyTorch**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/pytorch-learning-journey/graphs/commit-activity)
 
 This repository documents my self-directed learning journey into deep learning and computer vision, featuring hands-on implementations of convolutional neural networks and comprehensive PyTorch fundamentals. Built as part of my preparation for university computer science studies.
 
@@ -79,8 +77,8 @@ pytorch-learning-journey/
 ## 📚 Learning Resources
 
 **Primary References:**
-- [6.S919: Convolutional Neural Networks](http://cs231n.github.io/) - Stanford's computer vision course
-- [Deep Learning Book](https://www.deeplearningbook.org/) - Theoretical foundations
+- [MIT 6.S191: Introduction to Deep Learning](http://cs231n.github.io/) - MIT's deep learning course
+- [PyTorch Course by Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A) - 24hours PyTorch course
 - [PyTorch Official Tutorials](https://pytorch.org/tutorials/) - Comprehensive framework guide
 
 **Datasets:**
@@ -95,8 +93,7 @@ I'm passionate about machine learning and always excited to discuss projects, sh
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolo.auletta@studbocconi.it)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paolo-auletta)
 
 </div>
