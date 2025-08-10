@@ -16,7 +16,7 @@ This project implements a sophisticated CNN architecture to classify color image
 
 ## Model Architecture
 
-![CNN Architecture](../assets/cifar10_architecture.png)
+![CNN Architecture](../../assets/cifar10_architecture.png)
 
 ### Network Structure:
 
@@ -67,7 +67,7 @@ Linear(512→10) → Output
 
 ### Training Curves
 
-![Training Curves](../assets/cifar10_training_curves.png)
+![Training Curves](../../assets/cifar10_training_curves.png)
 
 The training curves demonstrate:
 
@@ -77,7 +77,7 @@ The training curves demonstrate:
 
 ### Sample Predictions
 
-![Sample Predictions](../assets/cifar10_predictions.png)
+![Sample Predictions](../../assets/cifar10_predictions.png)
 
 Visual evaluation showing model's ability to correctly classify diverse object categories with confidence scores.
 
