@@ -17,7 +17,7 @@ This project implements a custom CNN architecture to classify handwritten digits
 
 ## Model Architecture
 
-![CNN Architecture](../assets/emnist_architecture.png)
+![CNN Architecture](../../assets/emnist_architecture.png)
 
 ### Network Structure:
 
@@ -58,7 +58,7 @@ Flatten → Linear(100→10) → Output
 
 ### Confusion Matrix
 
-![Confusion Matrix](../assets/emnist_confusion_matrix.png)
+![Confusion Matrix](../../assets/emnist_confusion_matrix.png)
 
 The confusion matrix reveals:
 
