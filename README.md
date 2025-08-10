@@ -11,17 +11,17 @@ This repository documents my self-directed learning journey into deep learning a
 
 This project showcases practical machine learning skills through two main components:
 
-### 🧪 **Core Projects** - Real-world CNN implementations
+### **Core Projects** - Real-world CNN implementations
 - **EMNIST Digit Recognition**: Custom CNN for handwritten digit classification
 - **CIFAR-10 Object Classification**: Advanced CNN with modern techniques
 
-### 📚 **Learning Modules** - Progressive skill building
+### **Learning Modules** - Progressive skill building
 - **Fundamentals**: Tensor operations, neural network basics
 - **Advanced Concepts**: Training loops, optimization, model evaluation
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 pytorch-learning-journey/
@@ -47,19 +47,19 @@ pytorch-learning-journey/
 
 ---
 
-## 📊 Results & Achievements
+## 📈 Results & Achievements
 
-### 🎯 **Model Performance**
+### **Model Performance**
 - Successfully implemented two distinct CNN architectures
 - Achieved competitive accuracy on standard benchmarks
 - Demonstrated understanding of regularization and optimization
 
-### 📈 **Training Insights**
+### **Training Insights**
 - Effective loss curves showing proper convergence
 - No overfitting through proper regularization
 - Efficient training loops with progress tracking
 
-### 🔍 **Technical Skills Developed**
+### **Technical Skills Developed**
 
 <div align="center">
 
